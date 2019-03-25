@@ -1,4 +1,4 @@
-# Springboard-1
+# Springboard Data Science Track 2018-19
 This repository includes projects completed as a part of the Data Science Career Track in year 2018-2019. 
 
 It includes the following projects: 
